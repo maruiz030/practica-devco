@@ -11,4 +11,4 @@ Feature: Login SCAF
 
     Examples:
       | username | password  | message     |
-      | maruiz   | Admin002* | Martin Ruiz |
+      | maruiz   | Admin002* | Biienvenido |
