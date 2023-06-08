@@ -8,9 +8,7 @@ import io.cucumber.java.DefaultParameterTransformer;
 import java.lang.reflect.Type;
 
 public class ParameterType {
-
     private final ObjectMapper objectMapper = new ObjectMapper();
-
     @DefaultParameterTransformer
     @DefaultDataTableEntryTransformer
     @DefaultDataTableCellTransformer
